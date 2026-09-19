@@ -1,7 +1,5 @@
-# Dependencies
+# Node.js dependencies
 node_modules/
-venv/
-.venv/
 
 # Environment variables
 .env
@@ -16,26 +14,17 @@ build/
 *.log
 logs/
 
-# Python
-__pycache__/
-*.py[cod]
-
 # IDE
 .vscode/
 .idea/
 
-# OS
+# Operating system
 .DS_Store
 Thumbs.db
 
-# Testing
+# Testing / coverage
 coverage/
 
 # Temporary files
 *.tmp
 *.temp
-
-# Local databases
-*.sqlite
-*.sqlite3
-*.db
