@@ -8,27 +8,27 @@
 
 ## Document Index
 
-| #   | File                                                                       | IEEE Standard                       | Document Type            |
-| --- | -------------------------------------------------------------------------- | ----------------------------------- | ------------------------ |
-| 01  | [Project Management Plan](01-project-management-plan.md)                   | IEEE/ISO/IEC 16326:2009             | PMP                      |
-| 02  | [Work Breakdown Structure](02-wbs.md)                                      | IEEE/ISO/IEC 16326 (Annex)          | WBS                      |
-| 03  | [Project Schedule / Gantt Chart](03-project-schedule-gantt.md)             | IEEE/ISO/IEC 16326 (Annex)          | Schedule                 |
-| 04  | [Task Network / Activity Dependenciecs](04-task-network-dependencies.md)   | IEEE/ISO/IEC 16326 (Annex)          | Network Diagram          |
-| 05  | [Resource Allocation Plan](05-resource-allocation.md)                      | IEEE/ISO/IEC 16326 §6.4             | Resource Plan            |
-| 06  | [Risk Register / Risk Management Plan](06-risk-register.md)                | IEEE/ISO/IEC 16085:2006             | Risk Register            |
-| 07  | [Product Acceptance Plan](07-product-acceptance-plan.md)                   | IEEE/ISO/IEC 12207 §6.4.11          | Acceptance Plan          |
-| 08  | [Requirements Traceability Matrix](08-requirements-traceability-matrix.md) | IEEE/ISO/IEC 29148:2018 §6.2        | RTM                      |
-| 09  | [SCM / Configuration Management Plan](09-scm-plan.md)                      | IEEE/ISO/IEC 828:2012               | SCM Plan                 |
-| 10  | [Change Management / Change Control](10-change-management.md)              | IEEE/ISO/IEC 828:2012 §4.3          | CCB Process              |
-| 11  | [Configuration Items (CI) List](11-configuration-items.md)                 | IEEE/ISO/IEC 828:2012 §4.1          | CI Register              |
-| 12  | [Baseline / Release Management](12-baseline-release-management.md)         | IEEE/ISO/IEC 828:2012 §4.4          | Baseline Plan            |
-| 13  | [Architecture Documentation](13-architecture-documentation.md)             | IEEE/ISO/IEC/IEEE 42010:2011        | Architecture Description |
-| 14  | [Database Documentation](14-database-documentation.md)                     | IEEE/ISO/IEC 12207 (Design Process) | DB Design Doc            |
-| 15  | [API Documentation](15-api-documentation.md)                               | IEEE/ISO/IEC 12207 (Design Process) | API Reference            |
-| 16  | [Testing Plan](16-testing-plan.md)                                         | IEEE/ISO/IEC/IEEE 29119-3:2021      | Master Test Plan         |
-| 17  | [Testing Report](17-testing-report.md)                                     | IEEE/ISO/IEC/IEEE 29119-3:2021      | Test Summary Report      |
-| 18  | [Deployment Guide](18-deployment-guide.md)                                 | IEEE/ISO/IEC 12207 §6.4.9           | Deployment Procedure     |
-| 19  | [User Manual](19-user-manual.md)                                           | IEEE/ISO/IEC/IEEE 26514:2022        | User Documentation       |
+| #   | File                                                                                                 | IEEE Standard                       | Document Type            |
+| --- | ---------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------ |
+| 01  | [Project Management Plan](docs/srs/Project-management/01-project-management-plan.md)                 | IEEE/ISO/IEC 16326:2009             | PMP                      |
+| 02  | [Work Breakdown Structure](docs/srs/Project-management/02-wbs.md)                                    | IEEE/ISO/IEC 16326 (Annex)          | WBS                      |
+| 03  | [Project Schedule / Gantt Chart](docs/srs/Project-management/03-project-schedule-gantt.md)           | IEEE/ISO/IEC 16326 (Annex)          | Schedule                 |
+| 04  | [Task Network / Activity Dependenciecs](docs/srs/Project-management/04-task-network-dependencies.md) | IEEE/ISO/IEC 16326 (Annex)          | Network Diagram          |
+| 05  | [Resource Allocation Plan](docs/srs/Project-management/05-resource-allocation.md)                    | IEEE/ISO/IEC 16326 §6.4             | Resource Plan            |
+| 06  | [Risk Register / Risk Management Plan](docs/srs/Project-management/06-risk-register.md)              | IEEE/ISO/IEC 16085:2006             | Risk Register            |
+| 07  | [Product Acceptance Plan](docs/srs/Project-management/07-product-acceptance-plan.md)                 | IEEE/ISO/IEC 12207 §6.4.11          | Acceptance Plan          |
+| 08  | [Requirements Traceability Matrix](docs/srs/Requirements/08-requirements-traceability-matrix.md)     | IEEE/ISO/IEC 29148:2018 §6.2        | RTM                      |
+| 09  | [SCM / Configuration Management Plan](docs/srs/SCM/09-scm-plan.md)                                   | IEEE/ISO/IEC 828:2012               | SCM Plan                 |
+| 10  | [Change Management / Change Control](docs/srs/SCM/10-change-management.md)                           | IEEE/ISO/IEC 828:2012 §4.3          | CCB Process              |
+| 11  | [Configuration Items (CI) List](docs/srs/SCM/11-configuration-items.md)                              | IEEE/ISO/IEC 828:2012 §4.1          | CI Register              |
+| 12  | [Baseline / Release Management](docs/srs/SCM/12-baseline-release-management.md)                      | IEEE/ISO/IEC 828:2012 §4.4          | Baseline Plan            |
+| 13  | [Architecture Documentation](docs/srs/Architecture/13-architecture-documentation.md)                 | IEEE/ISO/IEC/IEEE 42010:2011        | Architecture Description |
+| 14  | [Database Documentation](docs/srs/Database/14-database-documentation.md)                             | IEEE/ISO/IEC 12207 (Design Process) | DB Design Doc            |
+| 15  | [API Documentation](docs/srs/API/15-api-documentation.md)                                            | IEEE/ISO/IEC 12207 (Design Process) | API Reference            |
+| 16  | [Testing Plan](docs/srs/Testing/16-testing-plan.md)                                                  | IEEE/ISO/IEC/IEEE 29119-3:2021      | Master Test Plan         |
+| 17  | [Testing Report](docs/srs/Testing/17-testing-report.md)                                              | IEEE/ISO/IEC/IEEE 29119-3:2021      | Test Summary Report      |
+| 18  | [Deployment Guide](docs/srs/Deployement/18-deployment-guide.md)                                      | IEEE/ISO/IEC 12207 §6.4.9           | Deployment Procedure     |
+| 19  | [User Manual](docs/srs/User-manual/19-user-manual.md)                                                | IEEE/ISO/IEC/IEEE 26514:2022        | User Documentation       |
 
 ---
 
