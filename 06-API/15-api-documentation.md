@@ -9,7 +9,7 @@
 
 ---
 
-## 1. General Conventions
+## 1. General Convention
 
 ### 1.1 Authentication
 
