@@ -29,7 +29,7 @@ These communicate with a **PostgreSQL 15** database.
 
 | Stakeholder | Key Concerns |
 |---|---|
-| Students | Can I see my own data? Is the recommendation private? Is the UI easy to use? |
+| Students | Can I see my own data and time? Is the recommendation private? Is the UI easy to use? |
 | Teachers | Can I quickly mark attendance and enter grades? |
 | Advisors | Can I see all at-risk students and their twin data? |
 | Dept. Admin | Can I manage courses, enrollment, and generate reports? |
