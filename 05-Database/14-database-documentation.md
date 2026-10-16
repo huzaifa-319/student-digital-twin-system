@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Entity List
+## 2. Entity list
 
 | # | Entity | Description |
 |---|---|---|
