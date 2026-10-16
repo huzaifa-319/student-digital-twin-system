@@ -54,7 +54,7 @@ Errors:
 | 422 | Unprocessable Entity — business rule violation |
 | 500 | Internal Server Error |
 
-### 1.4 Pagination
+### 1.4 Paginations
 
 List endpoints support:
 ```
