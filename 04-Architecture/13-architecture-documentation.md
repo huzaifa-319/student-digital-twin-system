@@ -38,7 +38,7 @@ These communicate with a **PostgreSQL 15** database.
 
 ---
 
-## 3. Architectural Viewpoints
+## 3. Architectural Viewpoint
 
 Following IEEE 42010, this document uses four viewpoints:
 
