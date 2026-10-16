@@ -118,7 +118,7 @@ CREATE TABLE enrollments (
 );
 ```
 
-### 3.5 attendance_records
+### 3.5 attendance_record
 
 ```sql
 CREATE TABLE attendance_records (
