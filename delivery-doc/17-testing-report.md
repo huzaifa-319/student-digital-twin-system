@@ -207,3 +207,18 @@ Example structure:
 | Project Lead | | | |
 | AI Developer | | | |
 | University Supervisor | | | |
+---
+
+## Abbreviations
+
+| Term | Meaning |
+|---|---|
+| SDTS | Student Digital Twin System |
+| UAT | User Acceptance Testing |
+| MAE | Mean Absolute Error |
+| F1 | Harmonic mean of precision and recall |
+| P95 | 95th percentile response time |
+| XSS | Cross-Site Scripting |
+| CSRF | Cross-Site Request Forgery |
+| IDOR | Insecure Direct Object Reference |
+| JWT | JSON Web Token |
