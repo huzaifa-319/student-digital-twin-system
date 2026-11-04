@@ -280,3 +280,13 @@ A test case **fails** when:
 | AI model test data insufficient | Use cross-validation on available data |
 | Performance test infra not available | Use cloud k6 or simulate locally with Docker |
 | UAT participants unavailable | Schedule UAT 2 weeks in advance; have backup participants |
+---
+
+## 11. Defect Severity Levels
+
+| Severity | Description | Expected Response |
+|---|---|---|
+| Critical | System crash, data loss, or security breach | Fix immediately |
+| High | Major feature does not work, no workaround | Fix before next release |
+| Medium | Feature works but with incorrect behavior | Fix in current iteration |
+| Low | Cosmetic or minor wording issue | Fix when time allows |
