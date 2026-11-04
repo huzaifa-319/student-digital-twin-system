@@ -268,6 +268,7 @@ A test case **fails** when:
 | AI Developer | Write AI unit tests; run model evaluation; bias testing |
 | Supervisor | Participate in UAT review; sign off on Test Summary Report |
 | User Representatives | Execute UAT scenarios |
+| Test Coordinator | Maintain the test case list; log defects; verify bug fixes before release |
 
 ---
 
