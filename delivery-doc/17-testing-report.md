@@ -150,6 +150,14 @@ This is the template for the SDTS Test Summary Report. Fill in each section afte
 | Defect ID | Description | Severity | Status | Resolution |
 |---|---|---|---|---|
 | *(to be filled during testing)* | | | | |
+**Defect ID format:** `DEF-001`, `DEF-002`, and so on, numbered in the order found.
+
+| Severity | Meaning |
+|---|---|
+| Critical | System crash, data loss, or security breach |
+| High | Major feature does not work and has no workaround |
+| Medium | Feature works but behaves incorrectly |
+| Low | Cosmetic or minor wording issue |
 
 ### Defect Metrics
 
