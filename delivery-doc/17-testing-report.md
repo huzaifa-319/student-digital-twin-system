@@ -2,7 +2,7 @@
 
 **Project:** Student Digital Twin System (SDTS)  
 **Document ID:** SDTS-TSR-017  
-**Standard:** IEEE/ISO/IEC/IEEE 29119-3:2021 — Test Summary Report  
+**Standard:** ISO/IEC/IEEE 29119-3:2021 — Test Summary Report
 **Version:** Template 1.0 (to be filled after testing)  
 **Date:** *(to be completed at end of testing phase — target: 2027-04-30)*
 
