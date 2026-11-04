@@ -7,7 +7,14 @@
 **Date:** *(to be completed at end of testing phase — target: 2027-04-30)*
 
 ---
+## Revision History
 
+| Version | Date | Author | Description |
+|---|---|---|---|
+| Template 1.0 | 2026-10-16 | Muneeb Hassan Khan | Initial template added |
+| Template 1.1 | 2026-11-04 | Muneeb Hassan Khan | Corrected standard name; added checklist, defect conventions, abbreviations |
+
+---
 ## Instructions
 
 This is the template for the SDTS Test Summary Report. Fill in each section after testing is complete. Sections marked `[TBD]` must be completed before this report is submitted to the supervisor.
